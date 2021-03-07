@@ -1,2 +1,5 @@
 練習中です。
 練習中です。2
+
+git add
+git commit
